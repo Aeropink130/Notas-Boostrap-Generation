@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+img {
+    width: 100%;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+div .row {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.col-lg-9 {
+    border: 1px solid #000;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+#footer {
+    background-color: gray;
+}
